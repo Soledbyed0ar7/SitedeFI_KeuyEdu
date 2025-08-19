@@ -1,0 +1,5 @@
+A placa-mãe é um componente essencial para um computador. 
+Ela é uma placa de circuito, permitindo a conexão entre todos os componentes e hardware do sistema, como o processador, a memória, periféricos...
+Faz parte do controlo do hardware e tem integrado hardware adicional, como interfaces de entrada e saída (placas de som, interfaces USB, saídas de vídeo, etc.), conectores de componentes (soquete da CPU, slot DIMM...).
+Também contém controladores de software e hardware que permitem que o computador funcione. Por exemplo, uma interface USB não é controlada completamente pelo processador, para isso existem chips especializados em detectar o estado da interface e enviá-lo para o processador periodicamente. Muitos outros componentes também seguem essa lógica.
+Algumas placas-mãe mais antigas possuem uma bateria-botão CR2032, que é usada para alimentar um chip de memória volátil CMOS que armazena informações de relógio, configurações de BIOS, entre outros.

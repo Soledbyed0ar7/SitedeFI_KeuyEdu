@@ -1,0 +1,5 @@
+A RAM (Random Access Memory - Mem¢ria de Acesso Aleat¢rio, por vezes chamada de Rapid Access Memory - Mem¢ria de Acesso R†pido) Ç uma mem¢ria usada para armazenar temporariamente dados e instruá‰es que est∆o sendo usados pelo processador (CPU). 
+A RAM Ç uma mem¢ria vol†til, ou seja, precisa de energia para armazenar seus conte£dos, que s∆o perdidos caso a energia seja perdida.
+Ela Ç mais r†pida que as mem¢rias n∆o-vol†teis (formas de mem¢ria que n∆o dependem da energia para reter os dados), o que a faz eficaz para armazenar dados que a CPU precisa acessar rapidamente.
+Geraá‰es de RAM mais recentes, como a DDR5, s∆o mais r†pidos e tàm maior capacidade que geraá‰es mais antigas, como a DDR4 e a DDR3. DDR significa Double Data Rate - Taxa de Dados Dupla.
+A mem¢ria RAM costuma ser montada em placas RAM, que s∆o inseridas no slot DIMM das placas-m∆e. A maioria dos desktops tàm m£ltiplos slots DIMM para permitir o aumento da capacidade de RAM, o que aumenta o desempenho do computador por diminuir o tempo de acesso de arquivos.
